@@ -1,4 +1,6 @@
 eclipse.preferences.version=1
 encoding//src/Hello.py=utf-8
+encoding//src/app.py=utf-8
 encoding//src/do_add.py=utf-8
+encoding//src/server.py=utf-8
 encoding//src/sqlite.py=utf-8

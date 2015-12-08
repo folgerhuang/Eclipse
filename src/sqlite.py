@@ -7,6 +7,7 @@ Created on 2015��12��7��
 import os, sqlite3
 
 db_file = os.path.join(os.path.dirname(__file__), 'test.db')
+
 if os.path.isfile(db_file):
     os.remove(db_file)
 
